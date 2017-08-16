@@ -1,5 +1,5 @@
 # Classifier
-Procesador y Clasificador de sentimientos ejemplificado con Tweeter  
+Procesador y Clasificador de sentimientos ejemplificado con Twitter, El objetivo del proyecto es determinar cómo se sienten las personas cuando comparten algo en Twitter, es decir, conocer la opinion publica de un tema en especifico.
 
 ## Requirements
 
